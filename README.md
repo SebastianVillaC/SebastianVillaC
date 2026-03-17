@@ -1,47 +1,45 @@
 <h1 align="center">Sebastian Villa Castillo</h1>
 
 <p align="center">
-  <b>Software Developer | Backend & Automation | Security Mindset</b>
+  <b>Software Developer | Backend | Security Mindset</b>
 </p>
 
 <p align="center">
-  Building backend systems and automating processes efficiently
+  Building reliable backend systems and secure applications
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Node.js-green" />
   <img src="https://img.shields.io/badge/Language-TypeScript-blue" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791" />
-  <img src="https://img.shields.io/badge/Focus-Automation-orange" />
+  <img src="https://img.shields.io/badge/APIs-REST-orange" />
   <img src="https://img.shields.io/badge/Mindset-Security-red" />
 </p>
----
-# Hi, I'm Sebastian! 👋
-**Junior Software Developer | Web Applications | Automation | Cybersecurity Enthusiast**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software developer with experience building web and internal applications focused on improving operational processes and system efficiency.
+Software developer with experience building web and internal applications focused on improving system efficiency and reliability.
 
 - 💻 Experience developing internal tools in corporate environments  
-- ⚙️ Focus on automation and process optimization  
-- 🔐 Strong interest in cybersecurity and vulnerability analysis  
-- 🎓 Systems Engineering student (ITM)  
+- ⚙️ Strong focus on backend development and APIs  
+- 🔐 Interest in cybersecurity and secure system design  
+- 🎓 Systems Engineering student  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- Astro
-- Tailwind CSS
-
 **Backend**
 - Node.js
 - TypeScript
 - REST APIs
+
+**Frontend**
+- React
+- Astro
+- Tailwind CSS
 
 **Database**
 - PostgreSQL
@@ -63,7 +61,7 @@ I am a software developer with experience building web and internal applications
 **Software Developer (IT Apprentice) – P&G**
 
 - Developed internal applications to improve operational efficiency  
-- Implemented automation solutions reducing manual workload  
+- Automated processes reducing manual workload and improving consistency  
 - Applied secure development practices aligned with cybersecurity standards  
 - Supported access management and system security processes  
 - Collaborated with multidisciplinary teams on requirements and improvements  
