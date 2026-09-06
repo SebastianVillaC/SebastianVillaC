@@ -3,7 +3,7 @@
 # Sebastian Villa Castillo
 
 <a href="https://sebastianvillac.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Focus;Cybersecurity+Enthusiast;Systems+Engineering+Student+%40+ITM;Building+Reliable+%26+Secure+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Focus;Cybersecurity+Enthusiast;Systems+Engineering+Student;Building+Reliable+%26+Secure+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
