@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://sebastianvillac.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-Live_Site-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sebastian-villa-c/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,32 +26,16 @@
 
 ---
 
-## 🌐 Live Portfolio Showcase
-
-> Looking for my featured projects, production architecture breakdowns, and interactive live demos? Explore my personal portfolio website:
-
-<div align="center">
-  <a href="https://sebastianvillac.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🚀_Explore_Projects_&_Case_Studies-sebastianvillac.github.io%2FPortfolio-00ADB5?style=for-the-badge" alt="Explore Portfolio" />
-  </a>
-</div>
-
-<br />
-
-- ⚡ **High-Performance Architecture:** Engineered with Astro, Tailwind CSS v4, TypeScript, and zero unnecessary client-side JavaScript.
-- 🛡️ **Defensive Security by Design:** SSG attack-surface elimination, isolated external links, and strict data validation.
-- 🌍 **Internationalization (i18n):** Native bilingual routing (English / Spanish) with centralized type-safe dictionaries.
-- 🏆 **Audited Excellence:** 100/100 score across Performance, Accessibility, Best Practices, and SEO on Google Lighthouse.
-
----
-
 ## 👨‍💻 About Me
 
-Software developer with solid hands-on experience designing web applications, automated business solutions, and secure access systems.
+Software developer with practical experience designing internal web applications, automated business solutions, and secure access systems.
+
+> 💡 **Looking for my projects and in-depth background?**  
+> Check out my personal [Portfolio](https://sebastianvillac.github.io/Portfolio/) to explore my work, interactive demos, and technical background.
 
 - 💼 **Professional Experience:** Former **Software Developer (IT Apprentice) at Procter & Gamble (P&G)**, where I developed internal operational platforms, automated critical workflows to eliminate manual overhead, and integrated security controls aligned with corporate CISSP standards.
 - ⚙️ **Backend & APIs:** Passionate about clean architecture, RESTful API design, database modeling, and asynchronous workloads.
-- 🔐 **Security Mindset:** Active student of defensive application security, vulnerability management (OWASP Top 10), and corporate identity/access management.
+- 🔐 **Security Mindset:** Active enthusiast in defensive application security, vulnerability mitigation (OWASP Top 10), and corporate identity/access management.
 - 🎓 **Education:**
   - **B.S. in Systems Engineering** — Instituto Tecnológico Metropolitano (ITM), Medellín *(Jan 2026 – Present)*
   - **Software Development Technologist** — Instituto Tecnológico Metropolitano (ITM), Medellín *(Jul 2022 – Jan 2026)*
